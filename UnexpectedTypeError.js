@@ -1,0 +1,1 @@
+This error occurs when using a third-party library that expects a specific type of data but receives something different. For example, if a library function expects an array, and you pass it a string, it might throw this error.  Another common scenario is when the data is not in the expected format (e.g., expecting a JSON object but getting a JSON array).
