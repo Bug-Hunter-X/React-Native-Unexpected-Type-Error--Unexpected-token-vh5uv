@@ -1,0 +1,1 @@
+This repository demonstrates a common React Native error: 'Unexpected Type Error: Unexpected token'. This error typically arises from type mismatches when interacting with third-party libraries or handling API responses. The example showcases incorrect data type handling and provides a solution for resolving the issue.
